@@ -64,6 +64,7 @@ var DefaultFalsePositives = []string{
 	"shitake",
 	"stitch",
 	"sussex",
+	"tassi", // tassilo, tassie
 	"therapist",
 	"therapeutic",
 	"tysongay",
